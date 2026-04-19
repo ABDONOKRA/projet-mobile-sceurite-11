@@ -15,13 +15,14 @@
 5. [Étape 2 — Générateur de logs mobiles simulés](#5-étape-2--générateur-de-logs-mobiles-simulés)
 6. [Étape 3 — Extension du parser pour les API mobiles](#6-étape-3--extension-du-parser-pour-les-api-mobiles)
 7. [Étape 4 — Moteur de détection avancé](#7-étape-4--moteur-de-détection-avancé)
-8. [Étape 5 — Intégration de l'IA (K-Means Clustering)](#8-étape-5--intégration-de-lia-k-means-clustering)
-9. [Étape 6 — Dashboard amélioré avec Streamlit](#9-étape-6--dashboard-amélioré-avec-streamlit)
-10. [Étape 7 — Système de recommandations anti-abus](#10-étape-7--système-de-recommandations-anti-abus)
-11. [Étape 8 — Tests et validation](#11-étape-8--tests-et-validation)
-12. [Division des tâches binôme](#12-division-des-tâches-binôme)
-13. [Planning 4 semaines](#13-planning-4-semaines)
-14. [Ressources & références](#14-ressources--références)
+8. 
+9. [Étape 5 — Intégration de l'IA (K-Means Clustering)](#8-étape-5--intégration-de-lia-k-means-clustering)
+10. [Étape 6 — Dashboard amélioré avec Streamlit](#9-étape-6--dashboard-amélioré-avec-streamlit)
+11. [Étape 7 — Système de recommandations anti-abus](#10-étape-7--système-de-recommandations-anti-abus)
+12. [Étape 8 — Tests et validation](#11-étape-8--tests-et-validation)
+13. [Division des tâches binôme](#12-division-des-tâches-binôme)
+14. [Planning 4 semaines](#13-planning-4-semaines)
+15. [Ressources & références](#14-ressources--références)
 ---
  
 ## 1. Vue d'ensemble du projet
