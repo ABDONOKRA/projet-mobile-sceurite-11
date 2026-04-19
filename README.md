@@ -15,7 +15,7 @@
 5. [Étape 2 — Générateur de logs mobiles simulés](#5-étape-2--générateur-de-logs-mobiles-simulés)
 6. [Étape 3 — Extension du parser pour les API mobiles](#6-étape-3--extension-du-parser-pour-les-api-mobiles)
 7. [Étape 4 — Moteur de détection avancé](#7-étape-4--moteur-de-détection-avancé)
-8. 
+8. [Étape 5 — Intégration de l'IA (K-Means Clustering)](#8-étape-5--intégration-de-lia-k-means-clustering)
 9. [Étape 5 — Intégration de l'IA (K-Means Clustering)](#8-étape-5--intégration-de-lia-k-means-clustering)
 10. [Étape 6 — Dashboard amélioré avec Streamlit](#9-étape-6--dashboard-amélioré-avec-streamlit)
 11. [Étape 7 — Système de recommandations anti-abus](#10-étape-7--système-de-recommandations-anti-abus)
